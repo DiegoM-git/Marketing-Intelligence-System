@@ -1,4 +1,4 @@
-# 📊 Marketing Intelligence Dashboard
+# Marketing Intelligence Dashboard
 ### Executive Analytics Report
 
 > Transforming marketing data into executive insights through interactive Business Intelligence.
@@ -306,14 +306,12 @@ Potential future improvements include:
 # Repository Structure
 
 ```
-Marketing Intelligence Dashboard/
+Marketing-Intelligence-Dashboard/
 │
-├── Dashboard.pbix
 ├── README.md
-├── images/
-│     └── dashboard.png
-└── data/
-      └── marketing_data.csv
+├── dashboard.pbix
+├── dashboard.png
+├── marketing data.csv
 ```
 
 ---
