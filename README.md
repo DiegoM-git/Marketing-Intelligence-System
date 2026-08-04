@@ -69,7 +69,7 @@ Designed for:
 
 # Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
